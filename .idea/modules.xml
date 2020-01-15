@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bewerkingen/Bewerkingen.iml" filepath="$PROJECT_DIR$/Bewerkingen/Bewerkingen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Periode2Week6.iml" filepath="$PROJECT_DIR$/Periode2Week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spelling/Spelling.iml" filepath="$PROJECT_DIR$/Spelling/Spelling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theorie/Theorie.iml" filepath="$PROJECT_DIR$/Theorie/Theorie.iml" />
+    </modules>
+  </component>
+</project>
